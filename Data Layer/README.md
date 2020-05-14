@@ -1,6 +1,6 @@
 # N.O.Y. Vision Data Layer
 
-This is the data layer for the HealthC(AR) application.
+This is the data layer for the N.O.Y. Vision application.
 
 ## Getting Started
 
